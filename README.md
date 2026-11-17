@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou Fabricio Dourado 👋
 
-<!--
-**fabricio-dourado/fabricio-dourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Tenho como objetivo me tornar Desenvolvedor Backend Java e conquistar minha primeira oportunidade de estágio na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente estou estudando
+
+- Lógica de Programação
+- Java
+- Programação Orientada a Objetos
+- Git e GitHub
+- Banco de Dados e SQL
+- Desenvolvimento Backend
+
+## 🎯 Objetivos
+
+- Construir uma base sólida em Java.
+- Desenvolver meus primeiros projetos.
+- Aprender Spring Boot e APIs REST.
+- Conquistar minha primeira oportunidade como estagiário Backend.
+
+## 📫 Contato
+
+- GitHub: [fabricio-dourado](https://github.com/fabricio-dourado)
+
+---
+
+*Em constante aprendizado e evolução.*
